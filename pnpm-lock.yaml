@@ -47,6 +47,9 @@ importers:
       js-cookie:
         specifier: ^3.0.5
         version: 3.0.5
+      logrocket:
+        specifier: ^11.0.0
+        version: 11.0.0
       lucide-react:
         specifier: ^0.562.0
         version: 0.562.0(react@19.2.3)
@@ -1643,6 +1646,9 @@ packages:
 
   lodash.merge@4.6.2:
     resolution: {integrity: sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==}
+
+  logrocket@11.0.0:
+    resolution: {integrity: sha512-/WBl2VJ/WVRsveU0PhWcO++XZpKUifRQZwAFqjUyPSwxdy+OFEgKk+W69WSQFM9pejizarXRwmb3Wo7msD75+g==}
 
   lru-cache@5.1.1:
     resolution: {integrity: sha512-KpNARQA3Iwv+jTA0utUVVbrh+Jlrr1Fv0e56GGzAFOXN7dk/FviaDW8LHmK52DlcH4WP2n6gI8vN1aesBFgo9w==}
@@ -3404,6 +3410,8 @@ snapshots:
       p-locate: 5.0.0
 
   lodash.merge@4.6.2: {}
+
+  logrocket@11.0.0: {}
 
   lru-cache@5.1.1:
     dependencies:
